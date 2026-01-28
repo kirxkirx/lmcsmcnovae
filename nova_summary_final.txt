@@ -1,0 +1,13 @@
+Nova name             | Coordinates              | Eruption date | mag.  | Comments
+ASASSN-18pf           | 05:41:46.46 -71:48:37.60 |  2018-07-13   | 10.7  | ATel #11857 - https://www.astronomerstelegram.org/?read=11857
+ASASSN-18jj           | 06:26:20.76 -69:45:46.30 |  2018-05-03   | 12.1  | ATel #11610 - https://www.astronomerstelegram.org/?read=11610
+PNV J05145365-7009486 | 05:14:53.65 -70:09:48.60 |  2019-11-11   | 10.5  | ATel #13287 - https://www.astronomerstelegram.org/?read=13287
+TCP J05293666-7009566 | 05:29:36.66 -70:09:56.40 |  2019-07-27   | 10.7  | ATel #12963 - https://www.astronomerstelegram.org/?read=12963
+ASASSN-19qv           | 01:04:30.20 -73:46:22.70 |  2019-07-04   | 11.8  | ATel #12907 - https://www.astronomerstelegram.org/?read=12907
+ASASSN-20ni           | 00:48:44.58 -72:53:53.77 |  2020-10-26   | 12.2  | ATel #14122 - https://astronomerstelegram.org/?read=14122
+PNV J05222788-6936333 | 05:22:27.88 -69:36:33.30 |  2022-05-21   | 10.05 | ATel #15392 - https://www.astronomerstelegram.org/?read=15392
+ASASSN-23hd           | 04:46:52.43 -65:53:51.20 |  2023-10-13   | 10.37 | ATel #16294 - https://www.astronomerstelegram.org/?read=16294
+ASASSN-24by           | 04:55:03.93 -65:55:56.90 |  2024-03-18   | 10.2  | ATel #16545 - https://www.astronomerstelegram.org/?read=16545
+LMCN 1968-12a (2024)  | 05:09:58.39 -71:39:52.70 |  2024-08-01   | 10.0  | ATel #16752 - https://www.astronomerstelegram.org/?read=16752
+LMCN 1968-12a (2020)  | 05:09:58.40 -71:39:52.70 |  2020-05-12   | 13.7  | AAVSO report - https://www.aavso.org/lmc-v1341-new-recurrent-nova-eruption
+GOTO25hfy (AT2025xvc) | 05:42:06.46 -67:01:06.66 |  2025-09-17   | 12.3  | ATel #17400 - https://www.astronomerstelegram.org/?read=17400
