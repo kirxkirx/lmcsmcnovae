@@ -1,13 +1,80 @@
-Nova name             | Coordinates              | Eruption date | mag.  | Comments
-ASASSN-18pf           | 05:41:46.46 -71:48:37.60 |  2018-07-13   | 10.7  | ATel #11857 - https://www.astronomerstelegram.org/?read=11857
-ASASSN-18jj           | 06:26:20.76 -69:45:46.30 |  2018-05-03   | 12.1  | ATel #11610 - https://www.astronomerstelegram.org/?read=11610
-PNV J05145365-7009486 | 05:14:53.65 -70:09:48.60 |  2019-11-11   | 10.5  | ATel #13287 - https://www.astronomerstelegram.org/?read=13287
-TCP J05293666-7009566 | 05:29:36.66 -70:09:56.40 |  2019-07-27   | 10.7  | ATel #12963 - https://www.astronomerstelegram.org/?read=12963
-ASASSN-19qv           | 01:04:30.20 -73:46:22.70 |  2019-07-04   | 11.8  | ATel #12907 - https://www.astronomerstelegram.org/?read=12907
-ASASSN-20ni           | 00:48:44.58 -72:53:53.77 |  2020-10-26   | 12.2  | ATel #14122 - https://astronomerstelegram.org/?read=14122
-PNV J05222788-6936333 | 05:22:27.88 -69:36:33.30 |  2022-05-21   | 10.05 | ATel #15392 - https://www.astronomerstelegram.org/?read=15392
-ASASSN-23hd           | 04:46:52.43 -65:53:51.20 |  2023-10-13   | 10.37 | ATel #16294 - https://www.astronomerstelegram.org/?read=16294
-ASASSN-24by           | 04:55:03.93 -65:55:56.90 |  2024-03-18   | 10.2  | ATel #16545 - https://www.astronomerstelegram.org/?read=16545
-LMCN 1968-12a (2024)  | 05:09:58.39 -71:39:52.70 |  2024-08-01   | 10.0  | ATel #16752 - https://www.astronomerstelegram.org/?read=16752
-LMCN 1968-12a (2020)  | 05:09:58.40 -71:39:52.70 |  2020-05-12   | 13.7  | AAVSO report - https://www.aavso.org/lmc-v1341-new-recurrent-nova-eruption
-GOTO25hfy (AT2025xvc) | 05:42:06.46 -67:01:06.66 |  2025-09-17   | 12.3  | ATel #17400 - https://www.astronomerstelegram.org/?read=17400
+Nova name                     | Coordinates           | Eruption date | mag. | Comments
+GOTO25hfy (AT2025xvc)         | 05:42:06.46 -67:01:06.7 | 2025-09-17 | 12.3  | ATel #17400 - https://www.astronomerstelegram.org/?read=17400
+LMCN 1968-12a (2024)          | 05:09:58.39 -71:39:52.7 | 2024-08-01 | 10.0  | ATel #16752 - https://www.astronomerstelegram.org/?read=16752
+ASASSN-24by                   | 04:55:03.93 -65:55:56.9 | 2024-03-18 | 10.2  | ATel #16545 - https://www.astronomerstelegram.org/?read=16545
+ASASSN-23hd                   | 04:46:52.43 -65:53:51.2 | 2023-10-13 | 10.37 | ATel #16294 - https://www.astronomerstelegram.org/?read=16294
+PNV J05222788-6936333         | 05:22:27.88 -69:36:33.3 | 2022-05-21 | 10.05 | ATel #15392 - https://www.astronomerstelegram.org/?read=15392
+ASASSN-20ni                   | 00:48:44.58 -72:53:53.8 | 2020-10-26 | 12.2  | ATel #14122 - https://astronomerstelegram.org/?read=14122
+LMCN 1968-12a (2020)          | 05:09:58.40 -71:39:52.7 | 2020-05-12 | 13.7  | AAVSO report - https://www.aavso.org/lmc-v1341-new-recurrent-nova-eruption
+PNV J05145365-7009486         | 05:14:53.65 -70:09:48.6 | 2019-11-11 | 10.5  | ATel #13287 - https://www.astronomerstelegram.org/?read=13287
+TCP J05293666-7009566         | 05:29:36.66 -70:09:56.4 | 2019-07-27 | 10.7  | ATel #12963 - https://www.astronomerstelegram.org/?read=12963
+ASASSN-19qv                   | 01:04:30.20 -73:46:22.7 | 2019-07-04 | 11.8  | ATel #12907 - https://www.astronomerstelegram.org/?read=12907
+ASASSN-18pf                   | 05:41:46.46 -71:48:37.6 | 2018-07-13 | 10.7  | ATel #11857 - https://www.astronomerstelegram.org/?read=11857
+ASASSN-18jj                   | 06:26:20.76 -69:45:46.3 | 2018-05-03 | 12.1  | ATel #11610 - https://www.astronomerstelegram.org/?read=11610
+MASTER OT J010603.18-744715.8 | 01:06:03.27 -74:47:15.8 | 2016-10-09 |  8.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+OGLE-2016-NOVA-01             | 05:09:58.40 -71:39:52.7 | 2016-01-21 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+ASASSN-15fd                   | 05:56:41.11 -75:09:38.0 | 2015-03-15 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+OGLE-2013-NOVA-02             | 05:57:58.38 -74:54:09.4 | 2013-10-16 | 11.2  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+OGLE-2012-NOVA-03             | 05:20:21.09 -73:05:43.3 | 2012-10-25 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+OGLE-2012-NOVA-12             | 00:48:07.28 -72:46:34.0 | 2012-09-17 | 12.1  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+OGLE-2012-NOVA-02             | 00:32:55.06 -74:20:19.7 | 2012-06-05 | 11.0  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 2012-03a                 | 04:54:56.82 -70:26:56.3 | 2012-03-26 | 10.7  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+MAXI J0158-744                | 01:59:25.87 -74:15:28.0 | 2011-11-11 | 14.3  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+OGLE-2011-NOVA-03             | 05:43:48.46 -69:19:31.0 | 2011-08-14 | 13.1  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+RN LMCN 1968-12a              | 05:09:58.40 -71:39:52.7 | 2010-11-21 | 12.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 2009-05a                 | 05:31:26.37 -67:05:40.0 | 2009-05-04 | 12.1  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 2009-02a                 | 05:40:44.20 -66:40:11.6 | 2009-02-05 | 10.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+OGLE-2008-NOVA-02             | 00:55:37.74 -72:03:14.4 | 2008-10-31 | 13.0  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+OGLE-2006-NOVA-02             | 00:57:03.87 -73:10:11.6 | 2006-08-10 | 11.8  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 2005-11a                 | 05:10:32.68 -69:12:35.7 | 2005-11-19 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+XMMSL1 J060636.2-694933       | 06:06:36.44 -69:49:34.3 | 2005-09-28 | 11.4  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 2005-08a                 | 01:15:00.07 -73:25:37.6 | 2005-08-06 | 11.6  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 2004-10a                 | 05:56:42.42 -68:54:34.8 | 2004-10-20 | 10.9  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+OGLE-2004-NOVA-01             | 00:55:03.21 -73:38:03.5 | 2004-02-02 | 14.2  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 2003-06a                 | 05:08:25.59 -68:26:22.3 | 2003-06-17 | 11.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 2002-10a                 | 00:56:30.44 -72:36:28.5 | 2002-10-16 | 12.3  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 2002-02a                 | 05:36:46.38 -71:35:34.4 | 2002-02-27 | 10.1  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 2001-10a                 | 00:46:27.92 -73:29:45.5 | 2001-10-09 | 12.1  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+OGLE-2001-NOVA-01             | 04:48:57.50 -69:55:35.7 | 2001-09-13 | 13.3  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 2001-06a                 | 05:24:00.00 -71:10:00.0 | 2001-06-06 |  9.7  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 2000-07a                 | 05:25:01.10 -70:14:17.0 | 2000-07-12 | 10.1  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1999-09a                 | 00:59:23.00 -73:07:56.0 | 1999-09-18 | 12.8  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1999-09a                 | 05:19:55.79 -70:27:53.4 | 1999-09-10 | 12.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1999-08a                 | 00:48:51.70 -72:30:15.0 | 1999-08-03 | 13.0  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+SMCN 1999-07a                 | 00:53:40.00 -72:12:32.0 | 1999-07-28 | 13.6  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+SMCN 1998-12a                 | 01:02:21.80 -73:18:27.0 | 1998-12-25 | 13.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1997-06a                 | 05:04:26.70 -67:38:38.0 | 1997-06-16 | 13.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1996-06a                 | 00:54:43.04 -72:32:20.8 | 1996-06-04 | 13.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1995-02a                 | 05:26:50.33 -70:01:23.8 | 1995-02-25 | 10.2  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1994-06a                 | 00:51:29.70 -73:19:39.7 | 1994-06-01 | 14.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1992-11a                 | 05:19:19.82 -68:54:35.0 | 1992-11-13 | 10.2  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1991-04a                 | 05:03:44.99 -70:18:13.5 | 1991-04-16 |  8.8  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1990-02a                 | 05:09:58.28 -71:39:51.4 | 1990-02-14 | 10.2  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1990-01a                 | 05:23:21.83 -69:29:48.4 | 1990-01-16 |  9.7  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1988-10a                 | 05:08:01.28 -68:37:37.6 | 1988-10-13 | 10.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1988-03a                 | 05:35:29.30 -70:21:29.3 | 1988-03-21 | 11.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1987-09a                 | 05:23:50.32 -70:00:44.7 | 1987-09-17 |  9.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1986-10a                 | 00:36:55.69 -72:04:50.5 | 1986-10-05 | 10.1  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1981-09a                 | 05:32:09.28 -70:22:11.6 | 1981-09-30 | 11.8  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1978-11a                 | 05:00:59.65 -67:12:44.8 | 1978-11-02 | 16    | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1978-03a                 | 05:05:52.26 -65:53:02.7 | 1978-03-29 |  9.7  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1977-03a                 | 05:05:10.87 -70:09:01.5 | 1977-03-12 | 10.7  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1977-02a                 | 06:05:45.50 -68:38:12.7 | 1977-02-26 | 12.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1974-08a                 | 00:26:01.20 -74:01:05.0 | 1974-08-19 | 11.0  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1973-09a                 | 05:15:18.38 -69:39:22.9 | 1972-11-19 | 11.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1972-08a                 | 05:28:27.42 -68:48:51.3 | 1972-08-22 | 11.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1971-08a                 | 05:40:35.64 -66:40:17.5 | 1971-05-08 | 13.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1971-03a                 | 04:58:18.46 -68:05:49.6 | 1971-03-29 | 11.8  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1970-11a                 | 05:35:33.59 -70:46:21.4 | 1971-01-21 | 11.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1970-03a                 | 05:33:12.65 -70:35:01.8 | 1970-03-08 | 12.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1968-12a                 | 05:10:01.99 -71:39:52.5 | 1968-12-14 | 10.4  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1952-12a                 | 00:48:37.00 -73:30:45.0 | 1952-12-22 | 11.0  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+SMCN 1951-06a                 | 00:35:21.00 -72:57:56.0 | 1951-06-12 | 11.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1951-01a                 | 05:12:49.00 -69:58:13.0 | 1951-01-04 | 11.9  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1948-12a                 | 05:38:18.00 -70:20:55.0 | 1948-12-05 | 13.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1937-11a                 | 05:57:30.00 -68:55:06.0 | 1937-11-23 | 10.6  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1936-02a                 | 05:07:34.86 -66:39:25.0 | 1936-02-25 | 10.8  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+LMCN 1935-09a                 | 03:59:15.90 -67:46:35.7 | 1935-09-03 | 11.0  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1927-10a                 | 00:34:10.00 -73:15:55.0 | 1927-10-04 | 11.4  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
+LMCN 1926-09a                 | 05:14:54.70 -66:48:10.3 | 1926-09-28 | 12.4  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
+SMCN 1897-10a                 | 00:59:56.00 -70:14:39.0 | 1897-10-15 | 11.4  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
