@@ -4,6 +4,7 @@ LMCN 1968-12a (2024)          | 05:09:58.39 -71:39:52.7 | 2024-08-01 | 10.0  | A
 ASASSN-24by                   | 04:55:03.93 -65:55:56.9 | 2024-03-18 | 10.2  | ATel #16545 - https://www.astronomerstelegram.org/?read=16545
 ASASSN-23hd                   | 04:46:52.43 -65:53:51.2 | 2023-10-13 | 10.37 | ATel #16294 - https://www.astronomerstelegram.org/?read=16294
 PNV J05222788-6936333         | 05:22:27.88 -69:36:33.3 | 2022-05-21 | 10.05 | ATel #15392 - https://www.astronomerstelegram.org/?read=15392
+ASASSN-20oh                   | 04:49:38.26 -68:53:51.0 | 2020-11-17 | 11.15 | ATel #14185 - https://www.astronomerstelegram.org/?read=14185
 ASASSN-20ni                   | 00:48:44.58 -72:53:53.8 | 2020-10-26 | 12.2  | ATel #14122 - https://astronomerstelegram.org/?read=14122
 LMCN 1968-12a (2020)          | 05:09:58.40 -71:39:52.7 | 2020-05-12 | 13.7  | AAVSO report - https://www.aavso.org/lmc-v1341-new-recurrent-nova-eruption
 PNV J05145365-7009486         | 05:14:53.65 -70:09:48.6 | 2019-11-11 | 10.5  | ATel #13287 - https://www.astronomerstelegram.org/?read=13287
@@ -11,6 +12,7 @@ TCP J05293666-7009566         | 05:29:36.66 -70:09:56.4 | 2019-07-27 | 10.7  | A
 ASASSN-19qv                   | 01:04:30.20 -73:46:22.7 | 2019-07-04 | 11.8  | ATel #12907 - https://www.astronomerstelegram.org/?read=12907
 ASASSN-18pf                   | 05:41:46.46 -71:48:37.6 | 2018-07-13 | 10.7  | ATel #11857 - https://www.astronomerstelegram.org/?read=11857
 ASASSN-18jj                   | 06:26:20.76 -69:45:46.3 | 2018-05-03 | 12.1  | ATel #11610 - https://www.astronomerstelegram.org/?read=11610
+OGLE-2018-NOVA-01             | 05:13:32.71 -68:38:00.4 | 2018-02-27 | 11.5  | ATel #11384 - https://www.astronomerstelegram.org/?read=11384
 MASTER OT J010603.18-744715.8 | 01:06:03.27 -74:47:15.8 | 2016-10-09 |  8.5  | MPE SMC list - https://www.mpe.mpg.de/~m31novae/opt/smc/SMC_table.html
 OGLE-2016-NOVA-01             | 05:09:58.40 -71:39:52.7 | 2016-01-21 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
 ASASSN-15fd                   | 05:56:41.11 -75:09:38.0 | 2015-03-15 | 11.5  | MPE LMC list - https://www.mpe.mpg.de/~m31novae/opt/lmc/LMC_table.html
